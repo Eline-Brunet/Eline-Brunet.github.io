@@ -6,7 +6,7 @@
 <p align="center"><strong>Doctorante</strong> – Laboratoire des Sciences du Climat et de l’Environnement (LSCE)</p>
 
 <p align="center">
-Je travaille sur la modélisation du mercure dans l'océan avec le modèle couplé <strong>NEMO / PISCES</strong>, dans le cadre du projet pluridisciplinaire <a href="https://prevent.lsce.ipsl.fr/" target="_blank">PPR PREVENT</a>.
+Je travaille sur la modélisation du mercure dans l'océan avec le modèle couplé <strong>NEMO / PISCES</strong> dans le cadre du projet pluridisciplinaire <a href="https://prevent.lsce.ipsl.fr/" target="_blank">PPR PREVENT</a>.
 </p>
 
 ---
@@ -15,6 +15,11 @@ Je travaille sur la modélisation du mercure dans l'océan avec le modèle coupl
 - Biogéochimie marine  
 - Polluants traces  
 - Modélisation océanique  
+
+---
+
+## Languages
+Python, Fortran
 
 ---
 
