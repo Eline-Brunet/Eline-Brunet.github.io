@@ -11,14 +11,14 @@ Je travaille sur la modélisation du mercure dans l'océan avec le modèle coupl
 
 ---
 
-## 🔬 Recherche
+## Recherche
 - Biogéochimie marine  
 - Polluants traces  
 - Modélisation océanique  
 
 ---
 
-## 📄 Publications
+## Publications
 **Stage de master :**  
 Barkhordarian, A., Brunet, E., & Baehr, J. (2025)  
 *Compound coastal marine–terrestrial heatwaves associated with humid-heat stress in Europe*  
@@ -26,5 +26,5 @@ Barkhordarian, A., Brunet, E., & Baehr, J. (2025)
 
 ---
 
-## 📫 Contact
+## Contact
 📧 <a href="mailto:eline.brunet@lsce.ipsl.fr">eline.brunet@lsce.ipsl.fr</a>
