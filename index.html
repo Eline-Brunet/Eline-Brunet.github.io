@@ -8,28 +8,57 @@
       font-family: Arial, sans-serif;
       max-width: 800px;
       margin: 40px auto;
-      line-height: 1.6;
       padding: 0 20px;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
     }
-    h1 { color: #003366; }
-    h2 { color: #0055AA; margin-top: 30px; }
-    ul { list-style: disc; margin-left: 20px; }
-    a { color: #0055AA; text-decoration: none; }
-    a:hover { text-decoration: underline; }
+    .profile-img {
+      display: block;
+      margin: 0 auto 20px auto;
+      border-radius: 50%;
+      width: 180px;
+      height: 180px;
+      object-fit: cover;
+      border: 3px solid #0055AA;
+    }
+    h1 {
+      text-align: center;
+      color: #003366;
+      margin-bottom: 5px;
+    }
+    h2 {
+      color: #0055AA;
+      margin-top: 30px;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style: disc;
+      margin-left: 20px;
+    }
+    a {
+      color: #0055AA;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .center {
+      text-align: center;
+    }
   </style>
 </head>
 <body>
 
-<h1>Eline Brunet</h1>
+<!-- Profile Picture -->
+<img src="photo.jpg" alt="Eline Brunet" class="profile-img">
 
-<p>
-<strong>Doctorante</strong> – Laboratoire des Sciences du Climat et de l’Environnement (LSCE)
-</p>
+<!-- Name -->
+<h1 class="center">Eline Brunet</h1>
+<p class="center"><strong>Doctorante</strong> – Laboratoire des Sciences du Climat et de l’Environnement (LSCE)</p>
 
-<p>
-Je travaille sur la <strong>modélisation du mercure</strong> dans le modèle couplé <strong>NEMO / PISCES</strong>.
-</p>
-
+<!-- Research -->
 <h2>Recherche</h2>
 <ul>
   <li>Biogéochimie marine</li>
@@ -37,6 +66,7 @@ Je travaille sur la <strong>modélisation du mercure</strong> dans le modèle co
   <li>Modélisation océanique</li>
 </ul>
 
+<!-- Publication -->
 <h2>Publication</h2>
 <p>
 Barkhordarian, A., Brunet, E., & Baehr, J. (2025)<br>
@@ -44,6 +74,7 @@ Barkhordarian, A., Brunet, E., & Baehr, J. (2025)<br>
 <a href="https://www.nature.com/articles/s41598-025-32049-z" target="_blank">Scientific Reports, 15, 43810</a>
 </p>
 
+<!-- Contact -->
 <h2>Contact</h2>
 <p>📧 eline.brunet@lsce.ipsl.fr</p>
 
